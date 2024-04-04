@@ -1,0 +1,30 @@
+html{
+  font-family: "Agbalumo" , system-ui;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 50px;
+}
+#a {
+  height: 150px;
+  width: 2000px;
+  background-color: LightGreen;
+}
+#b {
+  height: 150px;
+  width: 2000px;
+  background-color: yellow;
+  display: inline-block;
+}
+#c {
+  height: 100px;
+  width: 2000px;
+  background-color: RoyalBlue;
+  display: inline-block;
+}
+#d {
+  height: 100px;
+  width: 2000px;
+}
+body{
+
+}
