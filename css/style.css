@@ -1,33 +1,30 @@
 html{
-
-    font-family: "Madine One" , sans-serif;
-
+  font-family: "Agbalumo" , system-ui;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 50px;
 }
-
-#primeira{
-  height:200px;
-  width:200px;
-  background-color: #32CD32;
+#a {
+  height: 150px;
+  width: 2000px;
+  background-color: LightGreen;
+}
+#b {
+  height: 150px;
+  width: 2000px;
+  background-color: yellow;
   display: inline-block;
 }
-
-#segunda{
-  height:200px;
-  width:200px;
-  background-color:#C71585
+#c {
+  height: 100px;
+  width: 2000px;
+  background-color: RoyalBlue;
   display: inline-block;
 }
-
-#terceira{
-height: 1000px;
-width: 1000px;
-background-color: #FFFFFF;
-
+#d {
+  height: 100px;
+  width: 2000px;
 }
-
-#quarta{
-height: 200px;
-width: 200px;
-background-color: #1E90FF;
-
+body{
+  background-image: url(logo.jpg);
 }
